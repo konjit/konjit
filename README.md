@@ -41,5 +41,4 @@
 
 ---
 
-## 💡 Previous Experience  
-Worked with **C, C++, Python, Java, PHP, Qt, Arduino, Raspberry Pi, and PIC** on various software development projects.  
+
